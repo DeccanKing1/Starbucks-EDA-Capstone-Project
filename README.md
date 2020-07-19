@@ -30,7 +30,7 @@ Starbucks_Capstone_notebook.ipynb notebook contails all the data analysis and da
 very important and plays a huge roll.
 2. Female customers tend to spend more than Male customers, with the average spending per transaction is USD 16,3 compared to USD 10,4 
 respectively. Female customers also have tendency to complete the offer even without viewing it first, so we might want to be more careful in sending the offer to them.
-3. In overall, customers who complete the offer without viewing the offer first have the higher average income, especially in discount offer where 
+3. Customers who complete the offer without viewing the offer first have the higher average income, especially in discount offer where 
 those who complete the offer without viewing it and those who viewed it have average income USD 71,060 and USD 67,642 respectively.
 
 ## Future Improvements:
