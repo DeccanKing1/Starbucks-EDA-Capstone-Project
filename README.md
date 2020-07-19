@@ -1,5 +1,6 @@
 # Starbucks-EDA-Capstone-Project
-Answering Business  questions of customer behaviour based on starbucks app data 
+Answering Business  questions of customer behaviour based on starbucks app data. You can find the blog I have written on medium for the same project
+on thi link: https://medium.com/@anuptukarampatil/starbucks-exploratory-data-analysis-on-mobile-app-data-from-starbucks-726773e7004f
 
 ## Introduction
 For the Capstone Project, I chose the “Optimizing App Offers With Starbucks” project, which basically trying to solve the problem on 
