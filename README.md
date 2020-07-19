@@ -24,7 +24,8 @@ Starbucks_Capstone_notebook.ipynb notebook  contails all the data analysis and d
 
 
 
-## Dependencies: Python 3.6, pandas, matplotlib, seaborn
+## Dependencies: 
+Python 3.6, pandas, matplotlib, seaborn
 
 ## Conclusion:
 1. With the unplanned offer, we can "loss" up to USD 49,032 of revenue in a month or USD 588,384 of revenue in a year. So the target marketing of our promo is 
