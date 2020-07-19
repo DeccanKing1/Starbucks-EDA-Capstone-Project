@@ -18,7 +18,10 @@ I have carried out data abalysis to answer foloowing questions:
 2. What kind of customers that often completed the offer without viewing it?
 3. How is the income distributes between customers type?
 
-## Data Analysis and Cleaning 
+## Data Analysis and Cleaning: 
+### Starbucks_Capstone_notebook.ipynb ipython notebook contails all the data analysis and data cleaning.
+
+
 
 ## Dependencies: Python 3.6, pandas, matplotlib, seaborn
 
@@ -30,7 +33,7 @@ respectively. Female customers also have tendency to complete the offer even wit
 3. In overall, customers who complete the offer without viewing the offer first have the higher average income, especially in discount offer where 
 those who complete the offer without viewing it and those who viewed it have average income USD 71,060 and USD 67,642 respectively.
 
-## Future Improvements
+## Future Improvements:
 We need to be more careful in sending the offer, especially the BOGO offer where it contributes USD 31,230 loss in this experiment. One thing we can do is to 
 stop giving the BOGO offer to the customers with the average purchase > 2 cups per transaction, because without giving them the offer they tend 
 to purchase > 2 cups anyway so the BOGO offer seems not to important for them.Send less offer to the Female customers, especially discount offer. 
