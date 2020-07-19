@@ -20,7 +20,7 @@ I have carried out data abalysis to answer foloowing questions:
 3. How is the income distributes between customers type?
 
 ## Data Analysis and Cleaning: 
-Starbucks_Capstone_notebook.ipynb notebook contails all the data analysis and data cleaning.
+Starbucks_Capstone_notebook.ipynb notebook  contails all the data analysis and data cleaning.
 
 
 
